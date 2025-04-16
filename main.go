@@ -9,8 +9,10 @@ import (
 	"strconv"
 	"time"
 
-	"github.com/briandowns/spinner"
-	"github.com/christophwitzko/go-curl"
+	"github.com/cqr-cryeye-forks/spinner"
+	"github.com/cqr-cryeye-forks/go-curl"
+// 	"github.com/briandowns/spinner"
+// 	"github.com/christophwitzko/go-curl"
 )
 
 var InjecTedHeaderSite = "cachefock.dotphp.net"
